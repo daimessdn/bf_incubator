@@ -13,6 +13,6 @@
 . = like c putchar(). print 1 character to the console
 ```
 
-[More sources](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+- [More sources](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
 
-[Another...](https://en.wikipedia.org/wiki/Brainfuck)
+- [Another...](https://en.wikipedia.org/wiki/Brainfuck)
