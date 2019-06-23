@@ -2,7 +2,7 @@
 
 ## list of Brainfuck syntaxes...
 
-```
+```bf
 > = increases memory pointer, or moves the pointer to the right 1 block.
 < = decreases memory pointer, or moves the pointer to the left 1 block.
 + = increases value stored at the block pointed to by the memory pointer
@@ -14,3 +14,4 @@
 ```
 
 [More sources](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+[Another...](https://en.wikipedia.org/wiki/Brainfuck)
